@@ -1,5 +1,4 @@
-# Viz Wiz 2022
-# An Analysis of our World's Forests
+# Viz Wiz 2022: An Analysis of our World's Forests
 
 ## Team 👩🏻‍💻👩🏻‍💻
 
