@@ -1,4 +1,4 @@
-# Viz Wiz 2022: An Analysis of our World's Forests
+# Viz Wiz 2022: An Analysis of Canada's Forests
 
 ## Team 👩🏻‍💻👩🏻‍💻
 
@@ -8,15 +8,12 @@
 ## Topic and Questions
 This is a short data visualization project about forests. We explore the answers to the following questions using Tableau Public:
 
-1. How much of Earth used to be covered by forests, and what portion is covered today?
-2. How much deforestation occurs each year? 
-4. Which countries have the witnessed the most deforestation and-or reforestation
-
-7. What is the dollar amount per year of Canadian subsidies going to forestry companies?
-
-8. How many trees were planted yearly (or hectares of land) vs how many trees were lost to fire yearly (or hectares of land)?
-
-9. How much wood is exported from Canada every year, at what price?
+1. How much of Canada used to be covered by forests, and what portion is covered today?
+2. How much deforestation occurs each year in the country? 
+3. Which provinces (or zones) have the witnessed the most deforestation and which show increasing forest growth? 
+4. How many trees were planted yearly (or hectares of land) vs how many trees were lost to fire yearly (or hectares of land)?
+5. What is the dollar amount per year of Canadian subsidies going to forestry companies? (TENTATIVE)
+6. How much wood is exported from Canada every year, at what price? (TENTATIVE)
 
 ## Datasets
 
