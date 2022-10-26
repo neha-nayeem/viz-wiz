@@ -10,12 +10,12 @@ This is a short data visualization project about forests. We explore the answers
 
 1. How much of Earth used to be covered by forests, and what portion is covered today?
 2. How much deforestation occurs each year? 
-3. What are the main drivers of deforestation? 
-4. Which countries have the witnessed the most deforestation? 
-5. Are any countries showing increasing forest growth? 
-6. How has deforestation affected climate change? 
+4. Which countries have the witnessed the most deforestation and-or reforestation
+
 7. What is the dollar amount per year of Canadian subsidies going to forestry companies?
+
 8. How many trees were planted yearly (or hectares of land) vs how many trees were lost to fire yearly (or hectares of land)?
+
 9. How much wood is exported from Canada every year, at what price?
 
 ## Datasets
