@@ -12,8 +12,6 @@ This is a short data visualization project about forests. We explore the answers
 2. How much deforestation occurs each year in the country? 
 3. Which provinces (or zones) have the witnessed the most deforestation and which show increasing forest growth? 
 4. How many trees were planted yearly (or hectares of land) vs how many trees were lost to fire yearly (or hectares of land)?
-5. What is the dollar amount per year of Canadian subsidies going to forestry companies? (TENTATIVE)
-6. How much wood is exported from Canada every year, at what price? (TENTATIVE)
 
 ## Datasets
 
